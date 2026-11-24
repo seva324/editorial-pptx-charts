@@ -1,0 +1,18 @@
+{
+  "id": "paired-rungs-yoy",
+  "type": "paired_rungs",
+  "title": "全产品线收入同比正增长，专业版增幅最为显著",
+  "subtitle": "2025 vs 2026 各套餐季度营收对比（百万元） · 每档 = 100 万元",
+  "source": "PAIRED RUNGS · REVENUE YoY · 2025–2026",
+  "series_names": ["2025", "2026"],
+  "value_prefix": "¥",
+  "value_suffix": "M",
+  "unit_value": 1,
+  "data": [
+    {"label": "企业版", "a": 29, "b": 36},
+    {"label": "专业版", "a": 19, "b": 27},
+    {"label": "团队版", "a": 16, "b": 22},
+    {"label": "成长版", "a": 12, "b": 16},
+    {"label": "基础版", "a": 7, "b": 10}
+  ]
+}

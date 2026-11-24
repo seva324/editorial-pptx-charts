@@ -1,0 +1,19 @@
+{
+  "id": "tick-rows-releases",
+  "type": "tick_rows",
+  "title": "平台架构与增长研发领跑本季度功能交付",
+  "subtitle": "2026 Q2 各业务线线上发布次数 · 1 根竖线 = 1 次正式发布",
+  "source": "TICK ROWS · ENGINEERING RELEASE LOG · 2026 Q2",
+  "value_suffix": " 次",
+  "unit_value": 1,
+  "unit_label": "发布",
+  "highlight_index": 0,
+  "data": [
+    {"label": "平台架构", "value": 34},
+    {"label": "用户增长", "value": 28},
+    {"label": "移动体验", "value": 22},
+    {"label": "数据基建", "value": 17},
+    {"label": "算法模型", "value": 12},
+    {"label": "设计系统", "value": 8}
+  ]
+}

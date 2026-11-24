@@ -1,0 +1,17 @@
+{
+  "id": "stacked-rungs-region",
+  "type": "stacked_rungs",
+  "title": "华东与华北撑起核心盘，增值模块在亚太占比最高",
+  "subtitle": "各区域业务线营收构成（百万元） · 段间空一格呼吸，右侧标出分段实值",
+  "source": "STACKED RUNGS · REGIONAL REVENUE MIX · 2026 Q2",
+  "segments": ["核心订阅", "增值模块", "专业服务"],
+  "value_prefix": "¥",
+  "value_suffix": "M",
+  "unit_value": 1,
+  "data": [
+    {"label": "华东区", "segments": [18, 11, 7]},
+    {"label": "华北区", "segments": [14, 9, 5]},
+    {"label": "华南区", "segments": [9, 8, 6]},
+    {"label": "海外区", "segments": [6, 5, 3]}
+  ]
+}

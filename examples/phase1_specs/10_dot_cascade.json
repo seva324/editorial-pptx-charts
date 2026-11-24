@@ -1,0 +1,27 @@
+{
+  "id": "dot-cascade-incidents",
+  "type": "dot_cascade",
+  "dark": true,
+  "title": "人工误操作与代码缺陷占近半数线上事故",
+  "subtitle": "2019–2026 线上事故根因归类 · 1 粒圆点 = 2 起事故 · 按频次升序排列",
+  "source": "DOT CASCADE · SRE POSTMORTEM LOG · 2019–2026",
+  "unit_value": 2,
+  "unit_label": "起事故",
+  "data": [
+    {"label": "DNS", "value": 1},
+    {"label": "CDN", "value": 2},
+    {"label": "QUOTA", "value": 3},
+    {"label": "DISK", "value": 4},
+    {"label": "CERT", "value": 5},
+    {"label": "CACHE", "value": 6},
+    {"label": "QUEUE", "value": 7},
+    {"label": "OOM", "value": 9},
+    {"label": "NET", "value": 11},
+    {"label": "3P API", "value": 13},
+    {"label": "CONFIG", "value": 15},
+    {"label": "DB", "value": 18},
+    {"label": "DEPLOY", "value": 22},
+    {"label": "CODE", "value": 25},
+    {"label": "HUMAN", "value": 29}
+  ]
+}

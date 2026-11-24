@@ -1,0 +1,20 @@
+{
+  "id": "rung-bars-mrr",
+  "type": "rung_bars",
+  "title": "专业版与企业版贡献了近六成月度经常性收入",
+  "subtitle": "2026 Q2 各套餐月度经常性收入（万元） · 高亮为营收主力套餐",
+  "source": "RUNG BARS · BILLING LEDGER · 2026 Q2",
+  "value_prefix": "¥",
+  "value_suffix": "万",
+  "unit_label": "MRR",
+  "unit_value": 1,
+  "highlight_index": 0,
+  "data": [
+    {"label": "企业版", "value": 36},
+    {"label": "专业版", "value": 28},
+    {"label": "团队版", "value": 21},
+    {"label": "成长版", "value": 15},
+    {"label": "基础版", "value": 10},
+    {"label": "入门版", "value": 6}
+  ]
+}

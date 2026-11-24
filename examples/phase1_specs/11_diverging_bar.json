@@ -1,0 +1,18 @@
+{
+  "id": "diverging-bar-accounts",
+  "type": "diverging_bar",
+  "title": "大客户与团队版净增强劲，免费休眠账户集中出清",
+  "subtitle": "2026 Q2 各客群净增减客户数 · 左侧为流失/缩减，右侧为净增长",
+  "source": "DIVERGING BAR · CRM COHORT LEDGER · 2026 Q2",
+  "pos_label": "净增长",
+  "neg_label": "净流失",
+  "data": [
+    {"label": "大型企业版", "value": 86},
+    {"label": "团队协作版", "value": 54},
+    {"label": "专业订阅版", "value": 31},
+    {"label": "初创成长版", "value": 14},
+    {"label": "历史旧版", "value": -18},
+    {"label": "试用期流失", "value": -42},
+    {"label": "免费休眠户", "value": -67}
+  ]
+}

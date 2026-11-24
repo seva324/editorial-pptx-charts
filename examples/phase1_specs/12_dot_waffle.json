@@ -1,0 +1,14 @@
+{
+  "id": "dot-waffle-attribution",
+  "type": "dot_waffle",
+  "title": "搜索与口碑转介绍合计带来 61% 的新注册用户",
+  "subtitle": "2026 Q2 新注册来源占比 · 每个圆点代表 1% 的新增账户",
+  "source": "DOT WAFFLE · ATTRIBUTION MODEL · 2026 Q2",
+  "data": [
+    {"label": "自然搜索", "value": 34},
+    {"label": "口碑转介绍", "value": 27},
+    {"label": "社交媒体", "value": 18},
+    {"label": "生态伙伴", "value": 12},
+    {"label": "付费广告", "value": 9}
+  ]
+}

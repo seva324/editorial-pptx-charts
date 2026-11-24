@@ -1,0 +1,15 @@
+{
+  "id": "tick-donut-traffic",
+  "type": "tick_donut",
+  "title": "自然搜索与口碑推荐贡献了近六成新客流量",
+  "subtitle": "2026 Q2 获客渠道结构 · 1 根刻度线 = 1% · 顺时针自 12 点方向起读",
+  "source": "TICK DONUT · ACQUISITION ATTRIBUTION · 2026 Q2",
+  "center_value": "100%",
+  "center_label": "100 TICKS · 1 = 1%",
+  "data": [
+    {"label": "自然搜索", "value": 37},
+    {"label": "付费投放", "value": 28},
+    {"label": "口碑推荐", "value": 21},
+    {"label": "社媒内容", "value": 14}
+  ]
+}
