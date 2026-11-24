@@ -1,0 +1,16 @@
+{
+  "id": "big-slice-engagement",
+  "type": "big_slice",
+  "title": "高频核心用户占比三成半，日均停留时长高达 44 分钟",
+  "subtitle": "用户分层双维编码 · 扇区角度 = 用户占比 · 扇区半径 = 日均使用分钟数",
+  "source": "BIG SLICE · PRODUCT ENGAGEMENT · 2026 Q2",
+  "radius_suffix": "m",
+  "max_radius": 48,
+  "rings": [15, 30, 45],
+  "data": [
+    {"label": "高频重度用户", "share": 35, "radius": 44},
+    {"label": "团队协作者", "share": 28, "radius": 34},
+    {"label": "轻量查阅者", "share": 21, "radius": 22},
+    {"label": "新注册试探", "share": 16, "radius": 14}
+  ]
+}

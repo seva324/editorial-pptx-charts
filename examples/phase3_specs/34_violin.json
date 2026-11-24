@@ -1,0 +1,16 @@
+{
+  "id": "violin-reply-density",
+  "type": "violin",
+  "title": "高级套餐响应分布高度收紧，免费版呈现宽长双尾",
+  "subtitle": "各套餐工单首次响应核密度分布（小时） · 轮廓宽度 = 工单密度 · 纸色横杠 = 中位数",
+  "source": "VIOLIN · SUPPORT DENSITY ANALYSIS · 2026 Q2",
+  "value_suffix": "h",
+  "highlight_index": 0,
+  "y_max": 17,
+  "data": [
+    {"label": "企业版", "mean": 1.6, "spread": 0.8},
+    {"label": "专业版", "mean": 3.4, "spread": 1.6},
+    {"label": "成长版", "mean": 6.2, "spread": 2.6},
+    {"label": "免费版", "mean": 9.5, "spread": 4.2}
+  ]
+}

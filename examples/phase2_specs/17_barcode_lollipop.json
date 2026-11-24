@@ -1,0 +1,464 @@
+{
+  "id": "barcode-lollipop-90d",
+  "type": "barcode_lollipop",
+  "title": "九十天日峰值并发呈现双峰结构，六月下旬创季度新高",
+  "subtitle": "2026年4–6月每日最高并发（千人） · 实心=工作日 · 空心=周末 · 标注全季前三大峰值",
+  "source": "BARCODE LOLLIPOP · LIVE OPS · APR–JUN 2026",
+  "value_suffix": "k",
+  "peak_count": 3,
+  "data": [
+    {
+      "label": "D1",
+      "value": 134,
+      "weekend": false,
+      "tick_label": "APR"
+    },
+    {
+      "label": "D2",
+      "value": 132,
+      "weekend": false
+    },
+    {
+      "label": "D3",
+      "value": 155,
+      "weekend": false
+    },
+    {
+      "label": "D4",
+      "value": 163,
+      "weekend": false
+    },
+    {
+      "label": "D5",
+      "value": 173,
+      "weekend": false
+    },
+    {
+      "label": "D6",
+      "value": 161,
+      "weekend": true
+    },
+    {
+      "label": "D7",
+      "value": 172,
+      "weekend": true
+    },
+    {
+      "label": "D8",
+      "value": 172,
+      "weekend": false
+    },
+    {
+      "label": "D9",
+      "value": 199,
+      "weekend": false
+    },
+    {
+      "label": "D10",
+      "value": 187,
+      "weekend": false
+    },
+    {
+      "label": "D11",
+      "value": 159,
+      "weekend": false
+    },
+    {
+      "label": "D12",
+      "value": 153,
+      "weekend": false
+    },
+    {
+      "label": "D13",
+      "value": 155,
+      "weekend": true
+    },
+    {
+      "label": "D14",
+      "value": 175,
+      "weekend": true
+    },
+    {
+      "label": "D15",
+      "value": 147,
+      "weekend": false
+    },
+    {
+      "label": "D16",
+      "value": 161,
+      "weekend": false
+    },
+    {
+      "label": "D17",
+      "value": 152,
+      "weekend": false
+    },
+    {
+      "label": "D18",
+      "value": 139,
+      "weekend": false
+    },
+    {
+      "label": "D19",
+      "value": 122,
+      "weekend": false
+    },
+    {
+      "label": "D20",
+      "value": 143,
+      "weekend": true
+    },
+    {
+      "label": "D21",
+      "value": 135,
+      "weekend": true
+    },
+    {
+      "label": "D22",
+      "value": 129,
+      "weekend": false
+    },
+    {
+      "label": "D23",
+      "value": 133,
+      "weekend": false
+    },
+    {
+      "label": "D24",
+      "value": 161,
+      "weekend": false
+    },
+    {
+      "label": "D25",
+      "value": 145,
+      "weekend": false
+    },
+    {
+      "label": "D26",
+      "value": 156,
+      "weekend": false
+    },
+    {
+      "label": "D27",
+      "value": 176,
+      "weekend": true
+    },
+    {
+      "label": "D28",
+      "value": 170,
+      "weekend": true
+    },
+    {
+      "label": "D29",
+      "value": 158,
+      "weekend": false
+    },
+    {
+      "label": "D30",
+      "value": 144,
+      "weekend": false
+    },
+    {
+      "label": "D31",
+      "value": 154,
+      "weekend": false,
+      "tick_label": "MAY"
+    },
+    {
+      "label": "D32",
+      "value": 151,
+      "weekend": false
+    },
+    {
+      "label": "D33",
+      "value": 132,
+      "weekend": false
+    },
+    {
+      "label": "D34",
+      "value": 131,
+      "weekend": true
+    },
+    {
+      "label": "D35",
+      "value": 109,
+      "weekend": true
+    },
+    {
+      "label": "D36",
+      "value": 66,
+      "weekend": false
+    },
+    {
+      "label": "D37",
+      "value": 78,
+      "weekend": false
+    },
+    {
+      "label": "D38",
+      "value": 72,
+      "weekend": false
+    },
+    {
+      "label": "D39",
+      "value": 69,
+      "weekend": false
+    },
+    {
+      "label": "D40",
+      "value": 51,
+      "weekend": false
+    },
+    {
+      "label": "D41",
+      "value": 36,
+      "weekend": true
+    },
+    {
+      "label": "D42",
+      "value": 37,
+      "weekend": true
+    },
+    {
+      "label": "D43",
+      "value": 52,
+      "weekend": false
+    },
+    {
+      "label": "D44",
+      "value": 33,
+      "weekend": false
+    },
+    {
+      "label": "D45",
+      "value": 60,
+      "weekend": false
+    },
+    {
+      "label": "D46",
+      "value": 64,
+      "weekend": false
+    },
+    {
+      "label": "D47",
+      "value": 58,
+      "weekend": false
+    },
+    {
+      "label": "D48",
+      "value": 51,
+      "weekend": true
+    },
+    {
+      "label": "D49",
+      "value": 91,
+      "weekend": true
+    },
+    {
+      "label": "D50",
+      "value": 72,
+      "weekend": false
+    },
+    {
+      "label": "D51",
+      "value": 105,
+      "weekend": false
+    },
+    {
+      "label": "D52",
+      "value": 103,
+      "weekend": false
+    },
+    {
+      "label": "D53",
+      "value": 112,
+      "weekend": false
+    },
+    {
+      "label": "D54",
+      "value": 92,
+      "weekend": false
+    },
+    {
+      "label": "D55",
+      "value": 122,
+      "weekend": true
+    },
+    {
+      "label": "D56",
+      "value": 110,
+      "weekend": true
+    },
+    {
+      "label": "D57",
+      "value": 119,
+      "weekend": false
+    },
+    {
+      "label": "D58",
+      "value": 114,
+      "weekend": false
+    },
+    {
+      "label": "D59",
+      "value": 120,
+      "weekend": false
+    },
+    {
+      "label": "D60",
+      "value": 108,
+      "weekend": false
+    },
+    {
+      "label": "D61",
+      "value": 82,
+      "weekend": false
+    },
+    {
+      "label": "D62",
+      "value": 119,
+      "weekend": true,
+      "tick_label": "JUN"
+    },
+    {
+      "label": "D63",
+      "value": 86,
+      "weekend": true
+    },
+    {
+      "label": "D64",
+      "value": 117,
+      "weekend": false
+    },
+    {
+      "label": "D65",
+      "value": 119,
+      "weekend": false
+    },
+    {
+      "label": "D66",
+      "value": 131,
+      "weekend": false
+    },
+    {
+      "label": "D67",
+      "value": 111,
+      "weekend": false
+    },
+    {
+      "label": "D68",
+      "value": 145,
+      "weekend": false
+    },
+    {
+      "label": "D69",
+      "value": 154,
+      "weekend": true
+    },
+    {
+      "label": "D70",
+      "value": 155,
+      "weekend": true
+    },
+    {
+      "label": "D71",
+      "value": 150,
+      "weekend": false
+    },
+    {
+      "label": "D72",
+      "value": 161,
+      "weekend": false
+    },
+    {
+      "label": "D73",
+      "value": 167,
+      "weekend": false
+    },
+    {
+      "label": "D74",
+      "value": 180,
+      "weekend": false
+    },
+    {
+      "label": "D75",
+      "value": 205,
+      "weekend": false
+    },
+    {
+      "label": "D76",
+      "value": 214,
+      "weekend": true
+    },
+    {
+      "label": "D77",
+      "value": 180,
+      "weekend": true
+    },
+    {
+      "label": "D78",
+      "value": 204,
+      "weekend": false
+    },
+    {
+      "label": "D79",
+      "value": 183,
+      "weekend": false
+    },
+    {
+      "label": "D80",
+      "value": 168,
+      "weekend": false
+    },
+    {
+      "label": "D81",
+      "value": 176,
+      "weekend": false
+    },
+    {
+      "label": "D82",
+      "value": 174,
+      "weekend": false
+    },
+    {
+      "label": "D83",
+      "value": 139,
+      "weekend": true
+    },
+    {
+      "label": "D84",
+      "value": 151,
+      "weekend": true
+    },
+    {
+      "label": "D85",
+      "value": 113,
+      "weekend": false
+    },
+    {
+      "label": "D86",
+      "value": 104,
+      "weekend": false
+    },
+    {
+      "label": "D87",
+      "value": 126,
+      "weekend": false
+    },
+    {
+      "label": "D88",
+      "value": 84,
+      "weekend": false
+    },
+    {
+      "label": "D89",
+      "value": 107,
+      "weekend": false
+    },
+    {
+      "label": "D90",
+      "value": 78,
+      "weekend": true
+    }
+  ]
+}

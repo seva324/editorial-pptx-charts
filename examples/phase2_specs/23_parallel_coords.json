@@ -1,0 +1,27 @@
+{
+  "id": "parallel-coords-products",
+  "type": "parallel_coords",
+  "title": "Flows 在满意度、留存与增速三维全面领跑产品矩阵",
+  "subtitle": "12 款产品跨四大核心指标的表现轨迹 · 每根发丝代表一款产品 · 强调色为综合冠军",
+  "source": "PARALLEL COORDS · PRODUCT PORTFOLIO · 2026 Q2",
+  "dimensions": [
+    {"label": "定价 ($)", "min": 6, "max": 28, "neutral": true},
+    {"label": "满意度 CSAT", "min": 6.0, "max": 9.6},
+    {"label": "留存率 (%)", "min": 50, "max": 95},
+    {"label": "季增速 (%)", "min": -5, "max": 40}
+  ],
+  "data": [
+    {"label": "Editor", "values": [12, 9.1, 91, 22], "secondary": true},
+    {"label": "Boards", "values": [18, 8.4, 86, 18]},
+    {"label": "Forms", "values": [9, 8.8, 78, 31]},
+    {"label": "Docs", "values": [15, 8.0, 82, 12]},
+    {"label": "Chat", "values": [7, 7.2, 64, 8]},
+    {"label": "Vault", "values": [24, 7.8, 88, 6]},
+    {"label": "Flows", "values": [21, 8.9, 92, 38], "highlight": true},
+    {"label": "Views", "values": [11, 7.5, 71, 14]},
+    {"label": "Sync", "values": [16, 6.9, 58, -2]},
+    {"label": "Pages", "values": [8, 8.2, 74, 19]},
+    {"label": "Grid", "values": [19, 7.1, 62, 4]},
+    {"label": "Hub", "values": [13, 6.6, 52, 9]}
+  ]
+}

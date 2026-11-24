@@ -1,0 +1,13 @@
+{
+  "id": "hundred-field-attitude",
+  "type": "hundred_field",
+  "title": "面对 AI 工具转型，四成团队积极拥抱，三成半仍在观望权衡",
+  "subtitle": "2026 职场调研（N=100 标准化样本） · 每个圆点 = 1% 受访者 · 四类态度星团",
+  "source": "HUNDRED FIELD · WORKPLACE AI SURVEY · 2026",
+  "data": [
+    {"label": "积极拥抱", "value": 41},
+    {"label": "观望权衡", "value": 35},
+    {"label": "被动跟随", "value": 12},
+    {"label": "明确抵触", "value": 12}
+  ]
+}

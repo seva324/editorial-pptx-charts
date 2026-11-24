@@ -1,0 +1,17 @@
+{
+  "id": "rung-waterfall-pnl",
+  "type": "rung_waterfall",
+  "title": "扣除退款与云资源成本后，季度净留存利润达 1,700 万",
+  "subtitle": "2026 Q2 损益结构逐级分解（百万元） · 实档=收入/结余 · 虚档=扣减项 · 1 档 = 100 万",
+  "source": "RUNG WATERFALL · QUARTERLY P&L · 2026 Q2",
+  "value_prefix": "¥",
+  "value_suffix": "M",
+  "unit_value": 1,
+  "data": [
+    {"label": "总营收", "value": 42, "kind": "start"},
+    {"label": "退款折让", "value": -6, "kind": "sub"},
+    {"label": "云基建成本", "value": -11, "kind": "sub"},
+    {"label": "研发运营", "value": -8, "kind": "sub"},
+    {"label": "净利润", "value": 17, "kind": "total"}
+  ]
+}

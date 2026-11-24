@@ -1,0 +1,246 @@
+{
+  "id": "candlestick-ohlc",
+  "type": "candlestick",
+  "title": "股价经历第三周回撤探底后强势修复，六周末站上区间新高",
+  "subtitle": "30 个交易日 OHLC 日线走势 · 空心胶囊=收涨 · 实心强调色=收跌 · 发丝=当日高低区间",
+  "source": "CANDLESTICK · MARKET OHLC LEDGER · 6 WEEKS",
+  "value_prefix": "$",
+  "ticks": [
+    {
+      "index": 0,
+      "label": "W1"
+    },
+    {
+      "index": 5,
+      "label": "W2"
+    },
+    {
+      "index": 10,
+      "label": "W3"
+    },
+    {
+      "index": 15,
+      "label": "W4"
+    },
+    {
+      "index": 20,
+      "label": "W5"
+    },
+    {
+      "index": 25,
+      "label": "W6"
+    }
+  ],
+  "data": [
+    {
+      "label": "D1",
+      "open": 52.0,
+      "close": 52.03,
+      "high": 52.08,
+      "low": 50.87
+    },
+    {
+      "label": "D2",
+      "open": 52.03,
+      "close": 53.06,
+      "high": 55.65,
+      "low": 51.51
+    },
+    {
+      "label": "D3",
+      "open": 53.06,
+      "close": 52.33,
+      "high": 53.77,
+      "low": 52.01
+    },
+    {
+      "label": "D4",
+      "open": 52.33,
+      "close": 53.94,
+      "high": 55.19,
+      "low": 49.88
+    },
+    {
+      "label": "D5",
+      "open": 53.94,
+      "close": 53.8,
+      "high": 54.47,
+      "low": 51.9
+    },
+    {
+      "label": "D6",
+      "open": 53.8,
+      "close": 52.62,
+      "high": 54.03,
+      "low": 51.82
+    },
+    {
+      "label": "D7",
+      "open": 52.62,
+      "close": 51.76,
+      "high": 53.77,
+      "low": 50.55
+    },
+    {
+      "label": "D8",
+      "open": 51.76,
+      "close": 53.2,
+      "high": 54.51,
+      "low": 49.34
+    },
+    {
+      "label": "D9",
+      "open": 53.2,
+      "close": 55.69,
+      "high": 57.31,
+      "low": 50.73
+    },
+    {
+      "label": "D10",
+      "open": 55.69,
+      "close": 55.06,
+      "high": 57.57,
+      "low": 54.32
+    },
+    {
+      "label": "D11",
+      "open": 55.06,
+      "close": 51.64,
+      "high": 56.37,
+      "low": 48.94
+    },
+    {
+      "label": "D12",
+      "open": 51.64,
+      "close": 49.33,
+      "high": 52.42,
+      "low": 46.63
+    },
+    {
+      "label": "D13",
+      "open": 49.33,
+      "close": 46.61,
+      "high": 51.12,
+      "low": 46.1
+    },
+    {
+      "label": "D14",
+      "open": 46.61,
+      "close": 43.54,
+      "high": 46.91,
+      "low": 42.32
+    },
+    {
+      "label": "D15",
+      "open": 43.54,
+      "close": 40.06,
+      "high": 43.57,
+      "low": 38.0
+    },
+    {
+      "label": "D16",
+      "open": 40.06,
+      "close": 39.31,
+      "high": 41.33,
+      "low": 38.71
+    },
+    {
+      "label": "D17",
+      "open": 39.31,
+      "close": 38.49,
+      "high": 41.11,
+      "low": 36.15
+    },
+    {
+      "label": "D18",
+      "open": 38.49,
+      "close": 35.98,
+      "high": 39.27,
+      "low": 34.03
+    },
+    {
+      "label": "D19",
+      "open": 35.98,
+      "close": 37.26,
+      "high": 39.29,
+      "low": 35.05
+    },
+    {
+      "label": "D20",
+      "open": 37.26,
+      "close": 36.88,
+      "high": 39.61,
+      "low": 34.79
+    },
+    {
+      "label": "D21",
+      "open": 36.88,
+      "close": 36.4,
+      "high": 36.9,
+      "low": 34.14
+    },
+    {
+      "label": "D22",
+      "open": 36.4,
+      "close": 35.49,
+      "high": 39.07,
+      "low": 34.02
+    },
+    {
+      "label": "D23",
+      "open": 35.49,
+      "close": 36.4,
+      "high": 38.98,
+      "low": 35.2
+    },
+    {
+      "label": "D24",
+      "open": 36.4,
+      "close": 38.23,
+      "high": 38.58,
+      "low": 34.57
+    },
+    {
+      "label": "D25",
+      "open": 38.23,
+      "close": 38.34,
+      "high": 39.58,
+      "low": 37.33
+    },
+    {
+      "label": "D26",
+      "open": 38.34,
+      "close": 38.37,
+      "high": 39.37,
+      "low": 36.3
+    },
+    {
+      "label": "D27",
+      "open": 38.37,
+      "close": 40.14,
+      "high": 40.4,
+      "low": 36.21
+    },
+    {
+      "label": "D28",
+      "open": 40.14,
+      "close": 39.76,
+      "high": 40.92,
+      "low": 38.63
+    },
+    {
+      "label": "D29",
+      "open": 39.76,
+      "close": 39.74,
+      "high": 41.48,
+      "low": 39.25
+    },
+    {
+      "label": "D30",
+      "open": 39.74,
+      "close": 42.1,
+      "high": 42.26,
+      "low": 39.61
+    }
+  ]
+}

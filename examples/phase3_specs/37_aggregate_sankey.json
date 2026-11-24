@@ -1,0 +1,15 @@
+{
+  "id": "aggregate-sankey-channels",
+  "type": "aggregate_sankey",
+  "title": "自然搜索与口碑渠道是付费专业版与团队版的主要蓄水池",
+  "subtitle": "每 100 位新增用户的渠道→套餐转化流向 · 缎带宽度 = 账户数量",
+  "source": "AGGREGATE SANKEY · ATTRIBUTION TO PLAN · 2026 Q2",
+  "targets": ["免费版", "专业版", "团队版"],
+  "sources": [
+    {"label": "自然搜索", "flows": [20, 10, 4]},
+    {"label": "口碑推荐", "flows": [12, 9, 6]},
+    {"label": "社媒内容", "flows": [12, 4, 2]},
+    {"label": "付费广告", "flows": [6, 3, 3]},
+    {"label": "生态伙伴", "flows": [5, 2, 2]}
+  ]
+}

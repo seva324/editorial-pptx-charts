@@ -1,0 +1,15 @@
+{
+  "id": "hourglass-funnel",
+  "type": "hourglass_stream",
+  "title": "每百位访客最终沉淀 7.4 位付费客户，注册到激活为关键流失口",
+  "subtitle": "2026 Q2 同期群转化漏斗 · 条码宽度 = 该阶段人数 · 左侧为环比通过率",
+  "source": "HOURGLASS STREAM · GROWTH COHORT · 2026 Q2",
+  "conversion_caption": "环比转化",
+  "data": [
+    {"label": "独立访客", "value": 4200},
+    {"label": "完成注册", "value": 1900},
+    {"label": "核心激活", "value": 960},
+    {"label": "次月留存", "value": 540},
+    {"label": "正式付费", "value": 310}
+  ]
+}

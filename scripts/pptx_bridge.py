@@ -59,7 +59,11 @@ def export_via_ppt_master(
     svg_out.mkdir(parents=True, exist_ok=True)
 
     for idx, src in enumerate(svg_files, start=1):
-        dst = svg_out / f"{idx:02d}_{src.stem}.svg"
+        # Drop any pre-existing numeric page prefix so slide names stay clean
+        # ("01_01_rung_bars" -> "01_rung_bars"), and always number by position.
+        parts = src.stem.split("_", 1)
+        readable = parts[1] if len(parts) == 2 and parts[0].isdigit() else src.stem
+        dst = svg_out / f"{idx:02d}_{readable}.svg"
         shutil.copy2(src, dst)
 
     # Run ppt-master's required pre-export final quality report on the staged project

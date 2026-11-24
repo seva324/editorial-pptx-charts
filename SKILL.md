@@ -27,7 +27,7 @@ description: >
 1. **锁定配色来源**：
    - 若正在运行 `ppt-master` 项目：直接指向当前项目的 `spec_lock.md` 或品牌/风格模板的 `design_spec.md`（使用 `--from-ppt-master <path>` 自动提取 2–3 个主题色、底色与字体栈）。
    - 若用户指定主题色：使用 `--colors "#HEX1,#HEX2"` 或 `--colors "#HEX1,#HEX2,#HEX3"`，并按页面背景设置 `--bg "#FFFFFF"` / `--bg transparent` / `--dark`。
-2. **按数据形状选图**：查阅 [`catalog.md`](./catalog.md) 的数据形状决策表，锁定具体图型（Phase 1 已覆盖 12 款核心高频图型）。
+2. **按数据形状选图**：查阅 [`catalog.md`](./catalog.md) 的数据形状决策表，锁定具体图型（Phase 1–3 全量 37 款图型已就绪，完整覆盖 Lupi Basics F1–F17、Lupi Editorial 经典与主页样张、Glance 快读与流向）。
 3. **编写图表 JSON 规格**：提供真实数据、结论式标题（不写“柱状图”等图型名）、含图例与时间范围的副标题、诚实的单位说明与来源行。
 4. **调用确定性渲染引擎生成静态 SVG**：
    ```bash

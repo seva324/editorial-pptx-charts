@@ -1,0 +1,382 @@
+{
+  "id": "radial-patchwork-deploys",
+  "type": "radial_patchwork",
+  "title": "季度部署高度叠堆于午间 11–16 时，三起回滚事故全落于高峰窗",
+  "subtitle": "每片扇形 = 1 次部署 · 角度 = 时刻 · 半径 = 变更文件规模 · 强调色实线描边 = 触发事故",
+  "source": "RADIAL PATCHWORK · DEPLOY INCIDENT LOG · 2026 Q2",
+  "clock_labels": [
+    "00:00",
+    "06:00",
+    "12:00",
+    "18:00"
+  ],
+  "flagged_legend": "强调色描边 = 触发回滚事故",
+  "data": [
+    {
+      "hour": 21.0,
+      "reach": 60.6,
+      "span_deg": 15.5,
+      "series": 2
+    },
+    {
+      "hour": 11.4,
+      "reach": 39.0,
+      "span_deg": 11.9,
+      "series": 1
+    },
+    {
+      "hour": 12.86,
+      "reach": 29.2,
+      "span_deg": 14.6,
+      "series": 1
+    },
+    {
+      "hour": 10.93,
+      "reach": 65.7,
+      "span_deg": 18.9,
+      "series": 1
+    },
+    {
+      "hour": 10.12,
+      "reach": 55.9,
+      "span_deg": 13.6,
+      "series": 2
+    },
+    {
+      "hour": 12.57,
+      "reach": 94.2,
+      "span_deg": 14.8,
+      "series": 1
+    },
+    {
+      "hour": 13.01,
+      "reach": 93.2,
+      "span_deg": 11.6,
+      "series": 1
+    },
+    {
+      "hour": 20.43,
+      "reach": 24.8,
+      "span_deg": 17.9,
+      "series": 1
+    },
+    {
+      "hour": 14.53,
+      "reach": 41.2,
+      "span_deg": 18.5,
+      "series": 2
+    },
+    {
+      "hour": 13.02,
+      "reach": 42.7,
+      "span_deg": 17.3,
+      "series": 1
+    },
+    {
+      "hour": 11.6,
+      "reach": 77.9,
+      "span_deg": 12.0,
+      "series": 1
+    },
+    {
+      "hour": 14.29,
+      "reach": 80.0,
+      "span_deg": 12.3,
+      "series": 1
+    },
+    {
+      "hour": 10.29,
+      "reach": 47.2,
+      "span_deg": 11.7,
+      "series": 2
+    },
+    {
+      "hour": 9.57,
+      "reach": 82.3,
+      "span_deg": 15.5,
+      "series": 1
+    },
+    {
+      "hour": 19.91,
+      "reach": 73.2,
+      "span_deg": 11.8,
+      "series": 1
+    },
+    {
+      "hour": 14.32,
+      "reach": 41.6,
+      "span_deg": 14.3,
+      "series": 1
+    },
+    {
+      "hour": 11.59,
+      "reach": 24.4,
+      "span_deg": 15.5,
+      "series": 2
+    },
+    {
+      "hour": 14.94,
+      "reach": 34.6,
+      "span_deg": 14.2,
+      "series": 1
+    },
+    {
+      "hour": 15.8,
+      "reach": 77.3,
+      "span_deg": 14.9,
+      "series": 1
+    },
+    {
+      "hour": 9.55,
+      "reach": 60.7,
+      "span_deg": 17.4,
+      "series": 1
+    },
+    {
+      "hour": 16.66,
+      "reach": 28.5,
+      "span_deg": 13.0,
+      "series": 2
+    },
+    {
+      "hour": 22.73,
+      "reach": 19.3,
+      "span_deg": 13.4,
+      "series": 1
+    },
+    {
+      "hour": 10.43,
+      "reach": 23.3,
+      "span_deg": 16.8,
+      "series": 1
+    },
+    {
+      "hour": 12.82,
+      "reach": 22.3,
+      "span_deg": 13.1,
+      "series": 1
+    },
+    {
+      "hour": 12.19,
+      "reach": 23.8,
+      "span_deg": 20.9,
+      "series": 2
+    },
+    {
+      "hour": 10.2,
+      "reach": 59.0,
+      "span_deg": 18.9,
+      "series": 1
+    },
+    {
+      "hour": 11.6,
+      "reach": 60.4,
+      "span_deg": 14.8,
+      "series": 1
+    },
+    {
+      "hour": 14.11,
+      "reach": 43.8,
+      "span_deg": 16.0,
+      "series": 1
+    },
+    {
+      "hour": 22.86,
+      "reach": 87.7,
+      "span_deg": 17.2,
+      "series": 2
+    },
+    {
+      "hour": 11.97,
+      "reach": 85.5,
+      "span_deg": 18.6,
+      "series": 1
+    },
+    {
+      "hour": 14.87,
+      "reach": 45.8,
+      "span_deg": 18.8,
+      "series": 1
+    },
+    {
+      "hour": 15.58,
+      "reach": 36.6,
+      "span_deg": 18.5,
+      "series": 1
+    },
+    {
+      "hour": 12.07,
+      "reach": 38.7,
+      "span_deg": 16.1,
+      "series": 2
+    },
+    {
+      "hour": 12.42,
+      "reach": 65.2,
+      "span_deg": 13.5,
+      "series": 1
+    },
+    {
+      "hour": 10.64,
+      "reach": 41.1,
+      "span_deg": 12.0,
+      "series": 1
+    },
+    {
+      "hour": 21.88,
+      "reach": 69.4,
+      "span_deg": 18.9,
+      "series": 1
+    },
+    {
+      "hour": 14.38,
+      "reach": 78.4,
+      "span_deg": 19.8,
+      "series": 2
+    },
+    {
+      "hour": 9.51,
+      "reach": 68.6,
+      "span_deg": 15.5,
+      "series": 1
+    },
+    {
+      "hour": 10.79,
+      "reach": 93.8,
+      "span_deg": 14.9,
+      "series": 1
+    },
+    {
+      "hour": 16.36,
+      "reach": 29.2,
+      "span_deg": 11.8,
+      "series": 1
+    },
+    {
+      "hour": 16.93,
+      "reach": 71.2,
+      "span_deg": 11.2,
+      "series": 2
+    },
+    {
+      "hour": 9.9,
+      "reach": 65.2,
+      "span_deg": 18.3,
+      "series": 1
+    },
+    {
+      "hour": 23.97,
+      "reach": 55.4,
+      "span_deg": 14.2,
+      "series": 1
+    },
+    {
+      "hour": 15.73,
+      "reach": 91.9,
+      "span_deg": 11.8,
+      "series": 1
+    },
+    {
+      "hour": 9.7,
+      "reach": 84.6,
+      "span_deg": 17.1,
+      "series": 2
+    },
+    {
+      "hour": 14.31,
+      "reach": 26.8,
+      "span_deg": 16.5,
+      "series": 1
+    },
+    {
+      "hour": 13.61,
+      "reach": 88.2,
+      "span_deg": 12.1,
+      "series": 1
+    },
+    {
+      "hour": 16.9,
+      "reach": 19.8,
+      "span_deg": 13.0,
+      "series": 1
+    },
+    {
+      "hour": 14.41,
+      "reach": 43.7,
+      "span_deg": 20.2,
+      "series": 2
+    },
+    {
+      "hour": 21.04,
+      "reach": 35.2,
+      "span_deg": 13.6,
+      "series": 1
+    },
+    {
+      "hour": 11.36,
+      "reach": 81.0,
+      "span_deg": 20.5,
+      "series": 1
+    },
+    {
+      "hour": 11.95,
+      "reach": 90.6,
+      "span_deg": 16.9,
+      "series": 1
+    },
+    {
+      "hour": 13.0,
+      "reach": 73.4,
+      "span_deg": 19.7,
+      "series": 2
+    },
+    {
+      "hour": 15.93,
+      "reach": 30.6,
+      "span_deg": 16.7,
+      "series": 1
+    },
+    {
+      "hour": 14.63,
+      "reach": 23.9,
+      "span_deg": 17.3,
+      "series": 1
+    },
+    {
+      "hour": 12.76,
+      "reach": 70.3,
+      "span_deg": 19.7,
+      "series": 1
+    },
+    {
+      "hour": 22.44,
+      "reach": 35.0,
+      "span_deg": 13.2,
+      "series": 2
+    },
+    {
+      "hour": 15.54,
+      "reach": 29.6,
+      "span_deg": 16.8,
+      "series": 1
+    },
+    {
+      "hour": 11.4,
+      "reach": 86,
+      "span_deg": 14,
+      "flagged": true
+    },
+    {
+      "hour": 13.8,
+      "reach": 96,
+      "span_deg": 15,
+      "flagged": true
+    },
+    {
+      "hour": 15.6,
+      "reach": 64,
+      "span_deg": 13,
+      "flagged": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "tick-gauge-goal",
+  "type": "tick_gauge",
+  "title": "本季度 ARR 达成率已至 73%，距亿级目标仅差最后四分之一",
+  "subtitle": "2026 Q2 营收目标进度 · 1 根刻度线 = 目标的 1% · 已完成部分上墨",
+  "source": "TICK GAUGE · QUARTERLY TARGET · 2026 Q2",
+  "value": 73,
+  "value_text": "73%",
+  "sub_text": "27 TICKS TO GO",
+  "target_note": "已完成 ¥7,300 万 / 季度目标 ¥1.0 亿"
+}

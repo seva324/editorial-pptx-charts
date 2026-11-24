@@ -1,0 +1,14 @@
+{
+  "id": "radial-convergence-requests",
+  "type": "radial_convergence",
+  "title": "48 条高优先级客户需求高度收敛于性能、集成与定价三大主题",
+  "subtitle": "2026 Q2 客户反馈池归类 · 外圈每点 = 1 条原始需求 · 发丝束聚拢至对应主题节点",
+  "source": "RADIAL CONVERGENCE · CUSTOMER FEEDBACK BOARD · 2026 Q2",
+  "themes": [
+    {"label": "性能优化", "count": 14},
+    {"label": "生态集成", "count": 11},
+    {"label": "灵活定价", "count": 10},
+    {"label": "移动体验", "count": 7},
+    {"label": "交互细节", "count": 6}
+  ]
+}

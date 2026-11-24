@@ -1,0 +1,13 @@
+{
+  "id": "rung-histogram-tickets",
+  "type": "rung_histogram",
+  "title": "过半数客服工单在六小时内闭环，长尾集中于复杂排障",
+  "subtitle": "100 例抽样工单解决耗时分布 · 2 小时连续分箱 · 1 档 = 1 张工单 · 虚线为中位线",
+  "source": "RUNG HISTOGRAM · SUPPORT DESK SLA · 2026 Q2",
+  "value_suffix": " 单",
+  "unit_value": 1,
+  "unit_label": "张工单",
+  "median_label": "中位数 · 50% 在此之前解决",
+  "edges": ["0h", "2h", "4h", "6h", "8h", "10h", "12h", "14h", "16h", "18h", "20h", "22h", "24h"],
+  "bins": [6, 14, 22, 19, 13, 9, 6, 4, 3, 2, 1, 1]
+}

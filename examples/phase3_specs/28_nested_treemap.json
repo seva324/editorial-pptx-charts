@@ -1,0 +1,35 @@
+{
+  "id": "nested-treemap-hours",
+  "type": "nested_treemap",
+  "title": "产品线投入占总工时半壁江山，核心应用与 AI 引擎为两大重心",
+  "subtitle": "2026 Q2 累计交付 1,280 工时 · 矩形面积 = 实际工时 · 色相 = 一级产品大类",
+  "source": "NESTED TREEMAP · ENGINEERING PORTFOLIO · 2026 Q2",
+  "value_suffix": " h",
+  "data": [
+    {
+      "label": "核心产品",
+      "children": [
+        {"label": "核心应用", "value": 260},
+        {"label": "实时协作", "value": 190},
+        {"label": "全局搜索", "value": 110},
+        {"label": "移动端", "value": 80}
+      ]
+    },
+    {
+      "label": "技术平台",
+      "children": [
+        {"label": "AI 引擎", "value": 170},
+        {"label": "数据基建", "value": 120},
+        {"label": "开放 API", "value": 105}
+      ]
+    },
+    {
+      "label": "用户增长",
+      "children": [
+        {"label": "获客转化", "value": 90},
+        {"label": "留存运营", "value": 80},
+        {"label": "新手引导", "value": 75}
+      ]
+    }
+  ]
+}

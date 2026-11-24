@@ -1,0 +1,14 @@
+{
+  "id": "ballot-tally-fears",
+  "type": "ballot_tally",
+  "title": "超半数受访者最担忧“同薪加量”，而非直接被岗位替代",
+  "subtitle": "多选题调研结果（各项独立 0–100%） · 每行 100 根竖线代表 100 位受访者",
+  "source": "BALLOT TALLY · WORKPLACE SENTIMENT · 2026",
+  "highlight_index": 0,
+  "data": [
+    {"label": "薪酬不变但产出预期大幅提高", "value": 54},
+    {"label": "工作节奏持续加快难以维系", "value": 46},
+    {"label": "交付质量因赶工出现下滑", "value": 39},
+    {"label": "核心岗位被自动化直接替代", "value": 22}
+  ]
+}

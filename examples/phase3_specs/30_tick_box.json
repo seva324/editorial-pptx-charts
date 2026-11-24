@@ -1,0 +1,15 @@
+{
+  "id": "tick-box-reply",
+  "type": "tick_box",
+  "title": "企业版首次响应中位数仅 1.5 小时，比免费版快逾六倍",
+  "subtitle": "各套餐工单首次响应时长五数概括（小时） · 胶囊箱体=中间50% · 纸色横杠=中位数 · 空心点=离群值",
+  "source": "TICK BOX · SUPPORT RESPONSE SLA · 2026 Q2",
+  "value_suffix": "h",
+  "highlight_index": 0,
+  "data": [
+    {"label": "企业版", "min": 0.4, "q1": 0.9, "median": 1.5, "q3": 2.6, "max": 4.4, "outliers": [6.2]},
+    {"label": "专业版", "min": 0.8, "q1": 2.1, "median": 3.3, "q3": 5.0, "max": 7.8, "outliers": [10.5]},
+    {"label": "成长版", "min": 1.5, "q1": 3.8, "median": 6.1, "q3": 8.9, "max": 13.2, "outliers": [16.8]},
+    {"label": "免费版", "min": 2.2, "q1": 6.0, "median": 9.4, "q3": 13.8, "max": 19.6, "outliers": [22.1, 23.5]}
+  ]
+}

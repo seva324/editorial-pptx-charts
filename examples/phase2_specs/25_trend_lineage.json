@@ -1,0 +1,21 @@
+{
+  "id": "trend-lineage-roadmap",
+  "type": "trend_lineage",
+  "title": "核心能力十年演进：半数经重大重构延续至今，两项退出历史",
+  "subtitle": "2016–2026 十大功能生命周期谱系 · 实心=发布 · 空心=重构 · 虚线=休眠期",
+  "source": "TREND LINEAGE · PRODUCT HISTORY · 2016–2026",
+  "start_year": 2016,
+  "end_year": 2026,
+  "data": [
+    {"label": "暗黑模式", "alive": true, "events": [{"year": 2017, "kind": "shipped"}, {"year": 2022, "kind": "reworked"}]},
+    {"label": "看板视图", "alive": true, "events": [{"year": 2016, "kind": "shipped"}]},
+    {"label": "团队百科", "alive": false, "events": [{"year": 2016, "kind": "shipped"}, {"year": 2019, "kind": "reworked"}]},
+    {"label": "斜杠指令", "alive": true, "events": [{"year": 2018, "kind": "shipped"}]},
+    {"label": "模板市场", "alive": true, "events": [{"year": 2019, "kind": "shipped"}, {"year": 2024, "kind": "reworked"}]},
+    {"label": "收件箱", "alive": false, "events": [{"year": 2020, "kind": "shipped"}]},
+    {"label": "实时协作", "alive": true, "events": [{"year": 2020, "kind": "shipped"}, {"year": 2023, "kind": "reworked"}]},
+    {"label": "AI 助手", "alive": true, "highlight": true, "events": [{"year": 2023, "kind": "shipped"}, {"year": 2025, "kind": "reworked"}]},
+    {"label": "语音速记", "alive": false, "events": [{"year": 2021, "kind": "shipped"}]},
+    {"label": "离线引擎", "alive": true, "events": [{"year": 2018, "kind": "shipped", "dormant_after": true}, {"year": 2025, "kind": "reworked"}]}
+  ]
+}

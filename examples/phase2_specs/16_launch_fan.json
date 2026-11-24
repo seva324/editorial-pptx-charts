@@ -1,0 +1,24 @@
+{
+  "id": "launch-fan-features",
+  "type": "launch_fan",
+  "title": "早期上线的核心能力沉淀出最大月活，新功能呈阶梯接力",
+  "subtitle": "12 个功能模块按上线周次展开 · 大圆=上线周与当前 MAU（面积编码） · 小点=后续延续周次",
+  "source": "LAUNCH FAN · PRODUCT ANALYTICS · 2026 H1",
+  "max_period": 20,
+  "period_prefix": "W",
+  "size_suffix": "k MAU",
+  "data": [
+    {"label": "Editor", "launch": 1, "size": 52},
+    {"label": "Boards", "launch": 3, "size": 46},
+    {"label": "Docs", "launch": 4, "size": 41},
+    {"label": "Chat", "launch": 6, "size": 37},
+    {"label": "Flows", "launch": 8, "size": 34},
+    {"label": "Vault", "launch": 9, "size": 29},
+    {"label": "Pages", "launch": 11, "size": 25},
+    {"label": "Sync", "launch": 12, "size": 22},
+    {"label": "Grid", "launch": 14, "size": 19},
+    {"label": "Views", "launch": 16, "size": 16},
+    {"label": "Hub", "launch": 17, "size": 13},
+    {"label": "Forms", "launch": 19, "size": 10}
+  ]
+}

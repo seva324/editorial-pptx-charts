@@ -1,0 +1,25 @@
+{
+  "id": "plumb-scatter-csat",
+  "type": "plumb_scatter",
+  "title": "高价并非满意度保障：编辑器口碑夺冠，集成中心垫底",
+  "subtitle": "12 款产品定价指数 vs 客户满意度（CSAT） · 每点垂发丝至底部价格刻度",
+  "source": "PLUMB SCATTER · PRODUCT PANEL SURVEY · 2026 Q2",
+  "x_left_label": "低价位",
+  "x_right_label": "高溢价",
+  "y_label": "满意度更高 ↑",
+  "y_suffix": " 分",
+  "data": [
+    {"label": "编辑器", "x": 72, "y": 86},
+    {"label": "看板", "x": 58, "y": 74},
+    {"label": "文档", "x": 44, "y": 79},
+    {"label": "即时沟通", "x": 38, "y": 62},
+    {"label": "自动化流", "x": 66, "y": 58},
+    {"label": "知识库", "x": 82, "y": 71},
+    {"label": "门户页", "x": 28, "y": 55},
+    {"label": "数据同步", "x": 52, "y": 49},
+    {"label": "多维表格", "x": 88, "y": 44},
+    {"label": "视图", "x": 20, "y": 68},
+    {"label": "集成中心", "x": 76, "y": 32},
+    {"label": "表单", "x": 34, "y": 38}
+  ]
+}

@@ -25,41 +25,41 @@
 
 ---
 
-## Phase 2 · Lupi Editorial 深度叙事与高级基础组（规划中）
+## Phase 2 · Lupi Editorial 深度叙事与高级基础组（已实现 · 15 款）
 
-沿用 `lieflat-charts` 公开库与 GitHub 主页截图中的标志性高密度编辑图表，全部静态矢量重构：
+沿用 `lieflat-charts` 公开库与 GitHub 主页样张中的标志性高密度编辑图表，全部纯静态矢量重构并支持自定义 2–3 主题色：
 
-| 编号 | 计划 Key | 风格系 | 数据形状与视觉特征 |
+| 编号 | `type` Key | 风格系 | 数据形状与视觉特征 |
 |---|---|---|---|
-| L1 | `launch_fan` | Lupi Editorial | 扇形放射时间轴：每条辐条=一个功能，大圆=上线周与规模，小点=延续周次 |
-| L3 | `barcode_lollipop` | Lupi Editorial | 90 天级条码棒棒糖通栏图：每天一根全高发丝 + 重力垂杆 + Top-3 峰值标注 |
-| L4 | `arc_matrix` | Lupi Editorial | 弧形地平线气泡矩阵（分类×分类+量），每行微微上拱 |
+| F8 | `plumb_scatter` | Lupi Basics | 铅垂线散点图：每点垂发丝至底部条码刻度地板，标注最优/最差极值 |
+| F9 | `rung_waterfall` | Lupi Basics | 增减分解横档瀑布图：实档加/总计、虚档扣减、虚线台阶衔接 |
+| F11 | `tick_gauge` | Lupi Basics | 210° 刻度进度仪表盘（100 ticks，1 tick = 1% 目标，25/50/75/100 点标） |
+| L1 | `launch_fan` | Lupi Editorial | 扇形放射时间轴：每条辐条=一个功能，大圆=上线周与当前规模（面积编码），小点=延续周次 |
+| L3 | `barcode_lollipop` | Lupi Editorial | 90 天级条码棒棒糖通栏图：每天一根全高发丝 + 重力垂杆 + 周末空心点 + Top-3 峰值标注 |
+| L4 | `arc_matrix` | Lupi Editorial | 弧形地平线气泡矩阵（分类×分类+量），每行微微上拱，Top 单元格高亮标数 |
 | L13 | `hourglass_stream` | Lupi Editorial | 漏斗沙漏流：每阶段条码宽度=人数，贝塞尔发丝束向下汇流 + 左侧转化率 |
-| L14 | `hundred_field` | Lupi Editorial | 黄金角向日葵百点群簇：100 个点分成 3–5 组态度/占比星团 + 虚线星座连线 |
-| L15 | `ballot_tally` | Lupi Editorial | 多选题百格选票队列：每行 100 根竖线，勾选者加墨加高 |
-| L17 | `calendar_heat` | Lupi Editorial | 全年 52×7 日历点阵热力墙 + 月份刻度 + 峰值旁注引线 |
-| L20 | `parallel_coords` | Lupi Editorial | 多维平行坐标发丝束：3–6 连续维度，一线一实体，综合最优上强调色 |
-| L-EX1 | `radial_patchwork` | Lupi Editorial（主页样张） | 24 小时叠加扇片图：透明度编码叠加密度，关键异常扇片加实线轮廓 |
-| L-EX2 | `trend_lineage` | Lupi Editorial（主页样张） | 垂直生命周期谱系图：实心上线、空心重构、虚线休眠，一眼看清演变 |
-| L-EX3 | `type_colonnade` | Lupi Editorial（主页样张） | 多对一发丝归属图：左侧条目经贝塞尔曲线汇入右侧大圆节点 |
-| L-EX4 | `radial_convergence` | Lupi Editorial（主页样张） | 放射收敛图：外圈逐条记录向中心主题节点聚拢 |
-| F8 | `plumb_scatter` | Lupi Basics | 铅垂线散点图：每点垂发丝至底部刻度地板，标注极值 |
-| F9 | `rung_waterfall` | Lupi Basics | 增减分解横档瀑布图：实档加、虚档减、虚线台阶衔接 |
-| F11 | `tick_gauge` | Lupi Basics | 210° 刻度进度仪表盘（1 tick = 1% 目标） |
+| L14 | `hundred_field` | Lupi Editorial | 黄金角向日葵百点群簇：100 个点分成 2–5 组星团 + 虚线星座连线 + 每 5 人辐条 |
+| L15 | `ballot_tally` | Lupi Editorial | 多选题百格选票队列：每行 100 根竖线，勾选者加墨加高，每 10 人一个点标 |
+| L17 | `calendar_heat` | Lupi Editorial | 全年 52×7 日历点阵热力墙 + 月份刻度 + 峰值虚线圈与斜体旁注引线 |
+| L20 | `parallel_coords` | Lupi Editorial | 多维平行坐标发丝束：3–6 连续维度，贝塞尔光滑连线，综合最优上强调色 |
+| L-EX1 | `radial_patchwork` | Lupi Editorial（主页样张） | 24 小时叠加扇片图：半透明层叠编码密度，异常/事故扇片加实线强调轮廓 |
+| L-EX2 | `trend_lineage` | Lupi Editorial（主页样张） | 垂直生命周期谱系图：实心发布、空心重构、虚线休眠、底点标记存续状态 |
+| L-EX3 | `type_colonnade` | Lupi Editorial（主页样张） | 多对一发丝归属图：左侧条目经平滑贝塞尔曲线汇入右侧按数量缩放的归属节点 |
+| L-EX4 | `radial_convergence` | Lupi Editorial（主页样张） | 放射收敛图：外圈逐条记录节点经发丝束向内圈主题大圆聚拢 |
 
 ---
 
-## Phase 3 · 分布、流向与 Glance 快读补全组（规划中）
+## Phase 3 · 分布、流向与 Glance 快读补全组（已实现 · 10 款）
 
-| 编号 | 计划 Key | 风格系 | 数据形状与视觉特征 |
+| 编号 | `type` Key | 风格系 | 数据形状与视觉特征 |
 |---|---|---|---|
-| F13 | `nested_treemap` | Lupi Basics | 纯静态 SVG Squarified 两层嵌套矩形树图（零 ECharts 依赖） |
-| F14 | `rung_histogram` | Lupi Basics | 连续分箱横档直方图 + 中位数虚线旗标 |
-| F15 | `tick_box` | Lupi Basics | 分组五数概括箱线图 + 纸色中位横档 + 空心离群点 |
-| F16 | `stream_ribbon` | Lupi Basics | 连续时间多系列流图（Streamgraph） |
-| F17 | `candlestick` | Lupi Basics | 编辑部风格 K 线图（实体/空心涨跌 + 上下影线） |
-| G13 | `big_slice` | Glance | 角度（占比）× 半径（强度）双编码玫瑰扇图 |
-| G19 | `violin` | Glance | 静态核密度估计小提琴分布轮廓 + 中位横档 |
-| G20 | `matrix_heat` | Glance | 带 cell 数值直读的色块热力矩阵 |
-| G21 | `rank_strip` | Glance | 可静态印刷的排名随时间演变条带图 |
-| G22 | `aggregate_sankey` | Glance | 两端聚合宽带流向桑基图 |
+| F13 | `nested_treemap` | Lupi Basics | 纯静态 SVG Squarified 两层嵌套矩形树图（零 ECharts 依赖，色相区分一级父组） |
+| F14 | `rung_histogram` | Lupi Basics | 连续分箱横档直方图（箱界落于列间）+ 中位数虚线旗标 |
+| F15 | `tick_box` | Lupi Basics | 分组五数概括胶囊箱线图 + 纸色中位横档 + 空心离群点 |
+| F16 | `stream_ribbon` | Lupi Basics | 连续时间对称中轴多系列流图（Streamgraph / ThemeRiver）+ 条码时间地板 |
+| F17 | `candlestick` | Lupi Basics | 编辑部风格胶囊 K 线图（空心收涨 / 实心收跌 + 发丝上下影线 + 极值标注） |
+| G13 | `big_slice` | Glance | 角度（占比）× 半径（强度）双编码玫瑰扇图 + 同心虚线标尺环 |
+| G19 | `violin` | Glance | 静态高斯核密度（KDE）小提琴分布轮廓 + 纸色中位横档 |
+| G20 | `matrix_heat` | Glance | 大圆角直接读数热力矩阵（每格自动对比度标数 + 峰值强调） |
+| G21 | `rank_strip` | Glance | 静态可印刷排名胶片条带图（#1 穿强调色 + 行末 ▲/▼ 净变动旗标） |
+| G22 | `aggregate_sankey` | Glance | 两端聚合半透明宽带流向桑基图（颜色随源渠道，交叉清晰可读） |
